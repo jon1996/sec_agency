@@ -1,1 +1,1 @@
-web: gunicorn agency.wsgi –log-file -
+web: gunicorn agency.wsgi
